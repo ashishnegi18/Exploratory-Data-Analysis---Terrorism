@@ -4,7 +4,7 @@ AUTHOR : Ashish Negi
 
 Data can be found at: https://bit.ly/2TK5Xn5
 
-TASK 3: Performing ‘Exploratory Data Analysis’ on dataset ‘globalterrorismdb’.And we will try to find out the hot zone of terrorism.
+TASK 4: Performing ‘Exploratory Data Analysis’ on dataset ‘globalterrorismdb’.And we will try to find out the hot zone of terrorism.
 
 In data mining, Exploratory Data Analysis (EDA) is an approach to analyzing datasets to summarize their main characteristics, often with visual methods. EDA is used for seeing what the data can tell us before the modeling task. 
 
